@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @HemavardhanVelamakanni
-- 👀 I’m interested in Webtech
-- 🌱 I’m currently learning Machine learning models
-- 📫 How to reach me ??get to my instagram in my profile...DM
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i dont know to code.....just trying to learn but also can make projects in Webtech,OOPs,ML,DS...IYKYK
+- Hi, I’m Hemavardhan Velamakanni
+
+👀 Interests: Web Technologie,Data science and all other tech that make life easier!
+🌱 Currently Learning: Building smarter Machine Learning models one line of code at a time.
+📫 Reach Me: Slide into my Instagram DMs via the link in my profile – let's connect!
+😄 Pronouns: he/him
+⚡ Fun Fact: I claim I can't code, but somehow, I've managed to create projects in Web Development, ML, and Data Structures. If you know, you know! 😄
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VardhanVelamakanni&show_icons=true)](https://github.com/VardhanVelamakanni/github-readme-stats)
 
