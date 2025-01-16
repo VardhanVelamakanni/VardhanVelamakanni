@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **Building smarter Machine Learning models using sci-kit learn and TensorFlow one line of code at a time.**
 
 - 📫 How to reach me **Slide into my Instagram DMs via the link in my profile – let's connect!**
-- 
+  
+- 🔭 I’m currently working on brain tumour Detector Using Deep Learning.**
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vardhanvelamakanni&show_icons=true&locale=en&layout=compact" alt="vardhanvelamakanni" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vardhanvelamakanni&show_icons=true&locale=en" alt="vardhanvelamakanni" /></p>
