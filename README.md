@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **Building smarter Machine Learning models using sci-kit learn and TensorFlow one line of code at a time.**
 
 - 📫 How to reach me **Slide into my Instagram DMs via the link in my profile – let's connect!**
+- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vardhanvelamakanni&show_icons=true&locale=en&layout=compact" alt="vardhanvelamakanni" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vardhanvelamakanni&show_icons=true&locale=en" alt="vardhanvelamakanni" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/hemavardhan-velamakanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/hemavardhan-velamakanni" height="30" width="40" /></a>
