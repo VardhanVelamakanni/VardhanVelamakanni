@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemavardhan Velamakanni</h1>
 <h3 align="center">AI, Deep Learning, DataScience, DataAnalysis, Full Stack</h3>
 
-- 🌱 I’m currently learning **Building smarter Machine Learning models using sci-kit learn and TensorFlow one line of code at a time.**
-
-- 📫 How to reach me **Slide into my Instagram DMs via the link in my profile**
-  
 - 🔭 I’m currently working on **Brain tumour Detector Using Deep Learning**
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vardhanvelamakanni&show_icons=true&locale=en&layout=compact" alt="vardhanvelamakanni" /></p>
