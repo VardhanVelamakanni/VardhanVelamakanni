@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on **Brain tumour Detector Using Ml,Deep Learning**
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vardhanvelamakanni&show_icons=true&locale=en&layout=compact" alt="vardhanvelamakanni" /></p>
+![GitHub Stats](https://streak-stats.demolab.com?user=VardhanVelamakanni&theme=dark&hide_border=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vardhanvelamakanni&show_icons=true&locale=en" alt="vardhanvelamakanni" /></p>
 
