@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=VardhanVelamakanni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanVelamakanni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![VardhanVelamakanni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanVelamakanni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VardhanVelamakanni&theme=dark&hide_border=false)<br/>
 
