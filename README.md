@@ -6,7 +6,7 @@
 ## Ongoing Projects
 
 ### Brain Tumor Prediction using Deep Learning  
-- **Technologies:** CNN, EfficientNetB0, ResNet50, Pretrained Models  
+- **Technologies:** CNN, EfficientNetB0, ResNet50, yolo and other Pretrained Models (still in consideration)
 - **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, advanced data preprocessing techniques, and pretrained models for improved accuracy.  
 
 ### Peer-to-Peer File Sharing System  
