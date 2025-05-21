@@ -29,9 +29,10 @@
 - **Technologies:** Machine Learning, Linear Regression, Data Analysis  
 - **Description:** A machine learning model that predicts employee burnout based on workload, work-life balance, and other factors. The project provides insights into preventing burnout in corporate environments.  
 
-### [Chat Application](https://github.com/VardhanVelamakanni/chatapp)  
-- **Technologies:** Django, WebSockets, HTML, CSS, JavaScript  
-- **Description:** A real-time chat application with user authentication and message storage. It includes a collapsible user menu, chat initiation, and WebSocket integration for seamless communication.  
+### Brain Tumor Prediction using Deep Learning  
+- **Technologies:** CNN, EfficientNetB0, React ,Tailwindcss ,Tyoescript(still in consideration)
+- **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, advanced data preprocessing techniques, and pretrained models for improved accuracy.Also,the project is implemented to be a Web based application as well
+
 
 
 
