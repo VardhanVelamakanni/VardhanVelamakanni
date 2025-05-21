@@ -25,7 +25,7 @@
 - **Technologies:** Machine Learning, Linear Regression, Data Analysis  
 - **Description:** A machine learning model that predicts employee burnout based on workload, work-life balance, and other factors. The project provides insights into preventing burnout in corporate environments.  
 
-#### [Brain Tumor Prediction using Deep Learning]  (https://github.com/VardhanVelamakanni/Brain.Pulse)
+### [Brain Tumor Prediction using Deep Learning](https://github.com/VardhanVelamakanni/Brain.Pulse)
 - **Technologies:** CNN, EfficientNetB0, Genetic Algorithm , Compariosn for statistical approach on CLAHE image enhancement , React ,Tailwindcss, Typescript
 - **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, advanced data preprocessing techniques, and pretrained models for improved accuracy.Also,the project is implemented to be a Web based application as well
 
