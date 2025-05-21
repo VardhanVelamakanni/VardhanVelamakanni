@@ -5,10 +5,6 @@
 
 ## Ongoing Projects
 
-### Brain Tumor Prediction using Deep Learning  
-- **Technologies:** CNN, EfficientNetB0, ResNet50, yolo and other Pretrained Models (still in consideration)
-- **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, advanced data preprocessing techniques, and pretrained models for improved accuracy.  
-
 ### Peer-to-Peer File Sharing System  
 - **Technologies:** WebRTC, Node.js, Express.js, MongoDB, React.js  
 - **Description:** A full-stack P2P file-sharing system with user authentication and transfer history. WebRTC enables direct file sharing, while the backend tracks user activity and ensures security.  
@@ -29,8 +25,8 @@
 - **Technologies:** Machine Learning, Linear Regression, Data Analysis  
 - **Description:** A machine learning model that predicts employee burnout based on workload, work-life balance, and other factors. The project provides insights into preventing burnout in corporate environments.  
 
-### Brain Tumor Prediction using Deep Learning  
-- **Technologies:** CNN, EfficientNetB0, React ,Tailwindcss ,Tyoescript(still in consideration)
+#### [Brain Tumor Prediction using Deep Learning]  (https://github.com/VardhanVelamakanni/Brain.Pulse)
+- **Technologies:** CNN, EfficientNetB0, Genetic Algorithm , Compariosn for statistical approach on CLAHE image enhancement , React ,Tailwindcss, Typescript
 - **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, advanced data preprocessing techniques, and pretrained models for improved accuracy.Also,the project is implemented to be a Web based application as well
 
 
