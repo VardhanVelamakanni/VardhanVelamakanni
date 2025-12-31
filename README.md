@@ -1,49 +1,46 @@
-<h1 align="center">Hi 👋, I'm Hemavardhan Velamakanni</h1>
-<h3 align="center">AI, Deep Learning, DataScience, DataAnalysis, Full Stack</h3>
+## 🚀 Ongoing Projects
 
+### Examia (AI-Powered Study Assistant)
+- **Technologies:** LLM, RAG (Retrieval-Augmented Generation), LangChain, Python, Vector Databases
+- **Description:** An intelligent academic tool designed for students. Users can upload PDFs or PPTs, and the system utilizes RAG to retrieve context and generate:
+    * **Automated Question Framing:** Targeted questions derived directly from the source material.
+    * **Contextual Answers:** Precise responses based on document content.
+    * **Topic Summarization:** Simplified, topic-wise explanations to aid quick revision.
 
-
-## Ongoing Projects
-
-### Peer-to-Peer File Sharing System  
-- **Technologies:** WebRTC, Node.js, Express.js, MongoDB, React.js  
-- **Description:** A full-stack P2P file-sharing system with user authentication and transfer history. WebRTC enables direct file sharing, while the backend tracks user activity and ensures security.  
+### Peer-to-Peer File Sharing System
+- **Technologies:** WebRTC, Node.js, Socket.io, React.js
+- **Description:** A serverless-style file transfer application that eliminates the need for cloud storage. It establishes a direct **WebRTC** connection between devices for high-speed, secure file transfers, ensuring data privacy by never storing files on a central server.
 
 ---
 
-## Notable Completed Projects  
+## 🌟 Notable Projects
 
-### [CineMatch (Movie Recommendation System)](https://github.com/VardhanVelamakanni/CineMatch)  
-- **Technologies:** Machine Learning, Collaborative Filtering, Cosine Similarity  
-- **Description:** A movie recommendation system that suggests movies based on user preferences using collaborative filtering techniques. The system analyzes viewing patterns to improve recommendations.  
+### Statistical Analysis of Object Detection Models in Landmine Detection
+- **Technologies:** YOLOv8n, YOLOv12n, SSD300, Faster R-CNN (FRCNN), Computer Vision, PyTorch
+- **Description:** A comparative research project focused on identifying the most efficient model for landmine detection. I trained and evaluated multiple architectures—including **YOLOv8n, YOLOv12n, SSD300, and FRCNN**—analyzing their precision, recall, and mAP scores to determine the optimal balance between speed and accuracy for humanitarian demining efforts.
 
-### [DiskTrack (Disk Scheduling Algorithm Simulator)](https://github.com/VardhanVelamakanni/DiskTrackSim)  
-- **Technologies:** JavaScript, Chart.js, Data Structures & Algorithms  
-- **Description:** A web-based simulator that visually demonstrates various disk scheduling algorithms (FCFS, SSTF, SCAN, C-SCAN, etc.) using interactive graphs. It helps users understand how different algorithms affect seek time and performance.  
+### [Brain.Pulse (Brain Tumor Prediction)](https://github.com/VardhanVelamakanni/Brain.Pulse)
+- **Technologies:** CNN, EfficientNetB0, Genetic Algorithm, CLAHE Image Enhancement, React, TailwindCSS, TypeScript
+- **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, genetic algorithms for optimization, and a statistical approach to CLAHE image enhancement. It is fully implemented as a responsive web application.
 
-### [Employee Burnout Prediction](https://github.com/VardhanVelamakanni/Employee-burnout-prediction-aiml)  
-- **Technologies:** Machine Learning, Linear Regression, Data Analysis  
-- **Description:** A machine learning model that predicts employee burnout based on workload, work-life balance, and other factors. The project provides insights into preventing burnout in corporate environments.  
+### [CineMatch (Movie Recommendation System)](https://github.com/VardhanVelamakanni/CineMatch)
+- **Technologies:** Machine Learning, Collaborative Filtering, Cosine Similarity
+- **Description:** A movie recommendation system that suggests movies based on user preferences using collaborative filtering techniques. The system analyzes viewing patterns to improve recommendations.
 
-### [Brain Tumor Prediction using Deep Learning](https://github.com/VardhanVelamakanni/Brain.Pulse)
-- **Technologies:** CNN, EfficientNetB0, Genetic Algorithm , Compariosn for statistical approach on CLAHE image enhancement , React ,Tailwindcss, Typescript
-- **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, advanced data preprocessing techniques, and pretrained models for improved accuracy.Also,the project is implemented to be a Web based application as well
+### [DiskTrack (Disk Scheduling Algorithm Simulator)](https://github.com/VardhanVelamakanni/DiskTrackSim)
+- **Technologies:** JavaScript, Chart.js, Data Structures & Algorithms
+- **Description:** A web-based simulator that visually demonstrates various disk scheduling algorithms (FCFS, SSTF, SCAN, C-SCAN, etc.) using interactive graphs to help users understand seek time and performance.
 
+### [Employee Burnout Prediction](https://github.com/VardhanVelamakanni/Employee-burnout-prediction-aiml)
+- **Technologies:** Machine Learning, Linear Regression, Data Analysis
+- **Description:** A machine learning model that predicts employee burnout based on workload and work-life balance, providing insights into preventing burnout in corporate environments.
 
-
-
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VardhanVelamakanni&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VardhanVelamakanni&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![VardhanVelamakanni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VardhanVelamakanni&theme=dark&hide_border=true)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=VardhanVelamakanni&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
