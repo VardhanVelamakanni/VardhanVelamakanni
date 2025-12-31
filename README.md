@@ -23,9 +23,6 @@
 - **Technologies:** CNN, EfficientNetB0, Genetic Algorithm, CLAHE Image Enhancement, React, TailwindCSS, TypeScript
 - **Description:** A deep learning-based system for detecting and classifying brain tumors from MRI scans. The project integrates multiple convolutional layers, genetic algorithms for optimization, and a statistical approach to CLAHE image enhancement. It is fully implemented as a responsive web application.
 
-### [CineMatch (Movie Recommendation System)](https://github.com/VardhanVelamakanni/CineMatch)
-- **Technologies:** Machine Learning, Collaborative Filtering, Cosine Similarity
-- **Description:** A movie recommendation system that suggests movies based on user preferences using collaborative filtering techniques. The system analyzes viewing patterns to improve recommendations.
 
 ### [DiskTrack (Disk Scheduling Algorithm Simulator)](https://github.com/VardhanVelamakanni/DiskTrackSim)
 - **Technologies:** JavaScript, Chart.js, Data Structures & Algorithms
