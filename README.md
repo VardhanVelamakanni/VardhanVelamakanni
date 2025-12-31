@@ -7,7 +7,7 @@
     * **Contextual Answers:** Precise responses based on document content.
     * **Topic Summarization:** Simplified, topic-wise explanations to aid quick revision.
 
-### [Peer-to-Peer File Sharing System] (https://github.com/VardhanVelamakanni/P2P_file_sharing_system)
+### [Peer-to-Peer File Sharing System](https://github.com/VardhanVelamakanni/P2P_file_sharing_system)
 - **Technologies:** WebRTC, Node.js, Socket.io, React.js
 - **Description:** A serverless-style file transfer application that eliminates the need for cloud storage. It establishes a direct **WebRTC** connection between devices for high-speed, secure file transfers, ensuring data privacy by never storing files on a central server.
 
