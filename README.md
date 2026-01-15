@@ -28,4 +28,4 @@
 - **Technologies:** JavaScript, Chart.js, Data Structures & Algorithms
 - **Description:** A web-based simulator that visually demonstrates various disk scheduling algorithms (FCFS, SSTF, SCAN, C-SCAN, etc.) using interactive graphs to help users understand seek time and performance.
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VardhanVelamakanni?cardType=level&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+
